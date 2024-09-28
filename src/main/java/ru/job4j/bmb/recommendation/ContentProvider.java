@@ -1,4 +1,4 @@
-package ru.job4j.recommendation;
+package ru.job4j.bmb.recommendation;
 
 /**
  * Интерфейс, который определяет методы для получения контента (например, цитат, музыки, видео).
